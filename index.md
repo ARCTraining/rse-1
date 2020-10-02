@@ -1,6 +1,5 @@
 ---
 layout: lesson
-permalink: /
 ---
 
 # Reproducible research
